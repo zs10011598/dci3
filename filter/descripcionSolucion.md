@@ -40,4 +40,6 @@ Finalmente el otro modelo utilizado fue *multi layer perceptron network*, que se
  (Santi)
 
 ## Referencias
- (Noé)
+`<Link>` : <http://scikit-learn.org/stable/modules/neural_networks_supervised.html#neural-networks-supervised>
+
+`<E-book>` : Data Science from Scratch - *Joel Grus* - 2015 - ISBM: 978-491-90142-7 
