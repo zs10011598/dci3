@@ -1,22 +1,22 @@
-# Solucion del reto filtro
+# Solución del reto filtro
 
 ### Equipo: *Compu mundo hyper mega red*
 ### Integrantes: 
 1. Santiago de Jesus Gonzalez Medellin
-2. Noe Hoyos Quiroz
+2. Noé Hoyos Quiroz
 3. Pedro Romero Martinez
 
 ### Repositorio de soluciones:
-[Aqui](https://github.com/zs10011598/dci3.git)
+[Aquí](https://github.com/zs10011598/dci3.git)
 
 
-## Descripcion de datos
- (Noe)
+## Descripción de datos
+ (Noé)
 
-## Justificacion de modelos
+## Justificación de modelos
  (Pedro)
 
-## Exploracion de modelos
+## Exploración de modelos
  (Pedro)
 
 ## Modelo elegido
@@ -26,4 +26,4 @@
  (Santi)
 
 ## Referencias
- (Noe)
+ (Noé)
